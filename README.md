@@ -1,6 +1,6 @@
-🚀 My First Power BI Dashboard! 🚀
+🚀 My Basic Power BI Dashboard! 🚀
 
-This is my first basic HR dashboard built using Power BI, where I visualized employee data including:
+This is my basic HR dashboard built using Power BI, where I visualized employee data including:
 
 ✅ Total Employees
 
